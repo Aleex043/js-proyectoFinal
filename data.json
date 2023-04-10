@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "nombre": "Vino",
+        "precio": 2500,
+        "img": "img/vino.jpg",
+        "cantidad": 1
+    },
+    {
+        "id":2,
+        "nombre": "Espumante",
+        "precio": 3100,
+        "img": "img/espumante.jpg",
+        "cantidad": 1
+    },
+    {
+        "id":3,
+        "nombre": "Vodka",
+        "precio": 1800,
+        "img": "img/vodka.jpg",
+        "cantidad": 1
+    },
+    {
+        "id":4,
+        "nombre": "Cerveza",
+        "precio": 650,
+        "img": "img/cerveza.jpg",
+        "cantidad": 1
+    }
+]
